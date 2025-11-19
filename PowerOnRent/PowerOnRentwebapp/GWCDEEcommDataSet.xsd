@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GWCDEEcommDataSet" targetNamespace="http://tempuri.org/GWCDEEcommDataSet.xsd" xmlns:mstns="http://tempuri.org/GWCDEEcommDataSet.xsd" xmlns="http://tempuri.org/GWCDEEcommDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ApplicationServices" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ApplicationServices (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ApplicationServices.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="vw_GetvatOrderTableAdapter" GeneratorDataComponentClassName="vw_GetvatOrderTableAdapter" Name="vw_GetvatOrder" UserDataComponentName="vw_GetvatOrderTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ApplicationServices (Web.config)" DbObjectName="GWCDEEcomm.dbo.vw_GetvatOrder" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT OrderNumber, OrderNO, Storer, skucode, skuDescription, Orderqty, BasePrice, VATPercent, VATAmount, SKUTotalAmt, SKUTotalAmtExclVAT FROM dbo.vw_GetvatOrder</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="OrderNumber" DataSetColumn="OrderNumber" />
+              <Mapping SourceColumn="OrderNO" DataSetColumn="OrderNO" />
+              <Mapping SourceColumn="Storer" DataSetColumn="Storer" />
+              <Mapping SourceColumn="skucode" DataSetColumn="skucode" />
+              <Mapping SourceColumn="skuDescription" DataSetColumn="skuDescription" />
+              <Mapping SourceColumn="Orderqty" DataSetColumn="Orderqty" />
+              <Mapping SourceColumn="BasePrice" DataSetColumn="BasePrice" />
+              <Mapping SourceColumn="VATPercent" DataSetColumn="VATPercent" />
+              <Mapping SourceColumn="VATAmount" DataSetColumn="VATAmount" />
+              <Mapping SourceColumn="SKUTotalAmt" DataSetColumn="SKUTotalAmt" />
+              <Mapping SourceColumn="SKUTotalAmtExclVAT" DataSetColumn="SKUTotalAmtExclVAT" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GWCDEEcommDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="GWCDEEcommDataSet" msprop:Generator_UserDSName="GWCDEEcommDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="vw_GetvatOrder" msprop:Generator_TableClassName="vw_GetvatOrderDataTable" msprop:Generator_TableVarName="tablevw_GetvatOrder" msprop:Generator_TablePropName="vw_GetvatOrder" msprop:Generator_RowDeletingName="vw_GetvatOrderRowDeleting" msprop:Generator_RowChangingName="vw_GetvatOrderRowChanging" msprop:Generator_RowEvHandlerName="vw_GetvatOrderRowChangeEventHandler" msprop:Generator_RowDeletedName="vw_GetvatOrderRowDeleted" msprop:Generator_UserTableName="vw_GetvatOrder" msprop:Generator_RowChangedName="vw_GetvatOrderRowChanged" msprop:Generator_RowEvArgName="vw_GetvatOrderRowChangeEvent" msprop:Generator_RowClassName="vw_GetvatOrderRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OrderNumber" msprop:Generator_ColumnVarNameInTable="columnOrderNumber" msprop:Generator_ColumnPropNameInRow="OrderNumber" msprop:Generator_ColumnPropNameInTable="OrderNumberColumn" msprop:Generator_UserColumnName="OrderNumber" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderNO" msprop:Generator_ColumnVarNameInTable="columnOrderNO" msprop:Generator_ColumnPropNameInRow="OrderNO" msprop:Generator_ColumnPropNameInTable="OrderNOColumn" msprop:Generator_UserColumnName="OrderNO" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Storer" msprop:Generator_ColumnVarNameInTable="columnStorer" msprop:Generator_ColumnPropNameInRow="Storer" msprop:Generator_ColumnPropNameInTable="StorerColumn" msprop:Generator_UserColumnName="Storer" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="skucode" msprop:Generator_ColumnVarNameInTable="columnskucode" msprop:Generator_ColumnPropNameInRow="skucode" msprop:Generator_ColumnPropNameInTable="skucodeColumn" msprop:Generator_UserColumnName="skucode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="skuDescription" msprop:Generator_ColumnVarNameInTable="columnskuDescription" msprop:Generator_ColumnPropNameInRow="skuDescription" msprop:Generator_ColumnPropNameInTable="skuDescriptionColumn" msprop:Generator_UserColumnName="skuDescription" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Orderqty" msprop:Generator_ColumnVarNameInTable="columnOrderqty" msprop:Generator_ColumnPropNameInRow="Orderqty" msprop:Generator_ColumnPropNameInTable="OrderqtyColumn" msprop:Generator_UserColumnName="Orderqty" type="xs:decimal" minOccurs="0" />
+              <xs:element name="BasePrice" msprop:Generator_ColumnVarNameInTable="columnBasePrice" msprop:Generator_ColumnPropNameInRow="BasePrice" msprop:Generator_ColumnPropNameInTable="BasePriceColumn" msprop:Generator_UserColumnName="BasePrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VATPercent" msprop:Generator_ColumnVarNameInTable="columnVATPercent" msprop:Generator_ColumnPropNameInRow="VATPercent" msprop:Generator_ColumnPropNameInTable="VATPercentColumn" msprop:Generator_UserColumnName="VATPercent" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VATAmount" msprop:Generator_ColumnVarNameInTable="columnVATAmount" msprop:Generator_ColumnPropNameInRow="VATAmount" msprop:Generator_ColumnPropNameInTable="VATAmountColumn" msprop:Generator_UserColumnName="VATAmount" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SKUTotalAmt" msprop:Generator_ColumnVarNameInTable="columnSKUTotalAmt" msprop:Generator_ColumnPropNameInRow="SKUTotalAmt" msprop:Generator_ColumnPropNameInTable="SKUTotalAmtColumn" msprop:Generator_UserColumnName="SKUTotalAmt" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SKUTotalAmtExclVAT" msprop:Generator_ColumnVarNameInTable="columnSKUTotalAmtExclVAT" msprop:Generator_ColumnPropNameInRow="SKUTotalAmtExclVAT" msprop:Generator_ColumnPropNameInTable="SKUTotalAmtExclVATColumn" msprop:Generator_UserColumnName="SKUTotalAmtExclVAT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

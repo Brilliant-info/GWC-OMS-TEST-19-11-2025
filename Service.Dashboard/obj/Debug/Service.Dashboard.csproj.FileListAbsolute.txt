@@ -1,0 +1,234 @@
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojResolveAssemblyReference.cache
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojResolveAssemblyReference.cache
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Service.Dashboard.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Dashboard.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Interface.Dashboard.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\bin\Domain.Server.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csprojAssemblyReference.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CoreCompileInputs.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.csproj.CopyComplete
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Dashboard\obj\Debug\Service.Dashboard.pdb

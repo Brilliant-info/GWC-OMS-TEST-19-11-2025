@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="dac2a87a-1d88-4b79-85e6-5ff03029e821" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/poweronrentservices/Service.PowerOnRent/ServicePartConsumption.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePartConsumption11.xsd" MetadataType="Schema" ID="04750144-ec18-427c-9b04-34c7307b7604" SourceId="1" SourceUrl="http://localhost/poweronrentservices/Service.PowerOnRent/ServicePartConsumption.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServicePartConsumption11.wsdl" MetadataType="Wsdl" ID="b750762d-6fbc-4bef-98e1-c27dd3e14b54" SourceId="1" SourceUrl="http://localhost/poweronrentservices/Service.PowerOnRent/ServicePartConsumption.svc?wsdl" />
+    <MetadataFile FileName="ServicePartConsumption11.disco" MetadataType="Disco" ID="58402f98-956e-40a6-bd03-9bc20213f54a" SourceId="1" SourceUrl="http://localhost/poweronrentservices/Service.PowerOnRent/ServicePartConsumption.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

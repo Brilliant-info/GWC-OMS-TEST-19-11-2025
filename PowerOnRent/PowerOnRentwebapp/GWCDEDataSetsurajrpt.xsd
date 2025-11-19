@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GWCDEDataSetsurajrpt" targetNamespace="http://tempuri.org/GWCDEDataSetsurajrpt.xsd" xmlns:mstns="http://tempuri.org/GWCDEDataSetsurajrpt.xsd" xmlns="http://tempuri.org/GWCDEDataSetsurajrpt.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ApplicationServices" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ApplicationServices (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ApplicationServices.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_DeliveryLogReportTableAdapter" GeneratorDataComponentClassName="View_DeliveryLogReportTableAdapter" Name="View_DeliveryLogReport" UserDataComponentName="View_DeliveryLogReportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ApplicationServices (Web.config)" DbObjectName="GWCDE.dbo.View_DeliveryLogReport" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Id, OrderNo, UserId, OrderStatusId, ModeOfDelivery, OrderCreateDate, OrderDownload, OrderDispatch, OrderSynchronized, Status, Dname, StoreId, AssignBy, Uname, RequestNo, PaymentID, Active, Orderdate, companynm, ParentID, userIDPass FROM dbo.View_DeliveryLogReport</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Id" DataSetColumn="Id" />
+              <Mapping SourceColumn="OrderNo" DataSetColumn="OrderNo" />
+              <Mapping SourceColumn="UserId" DataSetColumn="UserId" />
+              <Mapping SourceColumn="OrderStatusId" DataSetColumn="OrderStatusId" />
+              <Mapping SourceColumn="ModeOfDelivery" DataSetColumn="ModeOfDelivery" />
+              <Mapping SourceColumn="OrderCreateDate" DataSetColumn="OrderCreateDate" />
+              <Mapping SourceColumn="OrderDownload" DataSetColumn="OrderDownload" />
+              <Mapping SourceColumn="OrderDispatch" DataSetColumn="OrderDispatch" />
+              <Mapping SourceColumn="OrderSynchronized" DataSetColumn="OrderSynchronized" />
+              <Mapping SourceColumn="Status" DataSetColumn="Status" />
+              <Mapping SourceColumn="Dname" DataSetColumn="Dname" />
+              <Mapping SourceColumn="StoreId" DataSetColumn="StoreId" />
+              <Mapping SourceColumn="AssignBy" DataSetColumn="AssignBy" />
+              <Mapping SourceColumn="Uname" DataSetColumn="Uname" />
+              <Mapping SourceColumn="RequestNo" DataSetColumn="RequestNo" />
+              <Mapping SourceColumn="PaymentID" DataSetColumn="PaymentID" />
+              <Mapping SourceColumn="Active" DataSetColumn="Active" />
+              <Mapping SourceColumn="Orderdate" DataSetColumn="Orderdate" />
+              <Mapping SourceColumn="companynm" DataSetColumn="companynm" />
+              <Mapping SourceColumn="ParentID" DataSetColumn="ParentID" />
+              <Mapping SourceColumn="userIDPass" DataSetColumn="userIDPass" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GWCDEDataSetsurajrpt" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="GWCDEDataSetsurajrpt" msprop:Generator_UserDSName="GWCDEDataSetsurajrpt">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_DeliveryLogReport" msprop:Generator_TableClassName="View_DeliveryLogReportDataTable" msprop:Generator_TableVarName="tableView_DeliveryLogReport" msprop:Generator_TablePropName="View_DeliveryLogReport" msprop:Generator_RowDeletingName="View_DeliveryLogReportRowDeleting" msprop:Generator_RowChangingName="View_DeliveryLogReportRowChanging" msprop:Generator_RowEvHandlerName="View_DeliveryLogReportRowChangeEventHandler" msprop:Generator_RowDeletedName="View_DeliveryLogReportRowDeleted" msprop:Generator_UserTableName="View_DeliveryLogReport" msprop:Generator_RowChangedName="View_DeliveryLogReportRowChanged" msprop:Generator_RowEvArgName="View_DeliveryLogReportRowChangeEvent" msprop:Generator_RowClassName="View_DeliveryLogReportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:long" />
+              <xs:element name="OrderNo" msprop:Generator_ColumnVarNameInTable="columnOrderNo" msprop:Generator_ColumnPropNameInRow="OrderNo" msprop:Generator_ColumnPropNameInTable="OrderNoColumn" msprop:Generator_UserColumnName="OrderNo" type="xs:long" minOccurs="0" />
+              <xs:element name="UserId" msprop:Generator_ColumnVarNameInTable="columnUserId" msprop:Generator_ColumnPropNameInRow="UserId" msprop:Generator_ColumnPropNameInTable="UserIdColumn" msprop:Generator_UserColumnName="UserId" type="xs:long" minOccurs="0" />
+              <xs:element name="OrderStatusId" msprop:Generator_ColumnVarNameInTable="columnOrderStatusId" msprop:Generator_ColumnPropNameInRow="OrderStatusId" msprop:Generator_ColumnPropNameInTable="OrderStatusIdColumn" msprop:Generator_UserColumnName="OrderStatusId" type="xs:long" minOccurs="0" />
+              <xs:element name="ModeOfDelivery" msprop:Generator_ColumnVarNameInTable="columnModeOfDelivery" msprop:Generator_ColumnPropNameInRow="ModeOfDelivery" msprop:Generator_ColumnPropNameInTable="ModeOfDeliveryColumn" msprop:Generator_UserColumnName="ModeOfDelivery" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderCreateDate" msprop:Generator_ColumnVarNameInTable="columnOrderCreateDate" msprop:Generator_ColumnPropNameInRow="OrderCreateDate" msprop:Generator_ColumnPropNameInTable="OrderCreateDateColumn" msprop:Generator_UserColumnName="OrderCreateDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="OrderDownload" msprop:Generator_ColumnVarNameInTable="columnOrderDownload" msprop:Generator_ColumnPropNameInRow="OrderDownload" msprop:Generator_ColumnPropNameInTable="OrderDownloadColumn" msprop:Generator_UserColumnName="OrderDownload" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="OrderDispatch" msprop:Generator_ColumnVarNameInTable="columnOrderDispatch" msprop:Generator_ColumnPropNameInRow="OrderDispatch" msprop:Generator_ColumnPropNameInTable="OrderDispatchColumn" msprop:Generator_UserColumnName="OrderDispatch" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="OrderSynchronized" msprop:Generator_ColumnVarNameInTable="columnOrderSynchronized" msprop:Generator_ColumnPropNameInRow="OrderSynchronized" msprop:Generator_ColumnPropNameInTable="OrderSynchronizedColumn" msprop:Generator_UserColumnName="OrderSynchronized" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnPropNameInTable="StatusColumn" msprop:Generator_UserColumnName="Status" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Dname" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDname" msprop:Generator_ColumnPropNameInRow="Dname" msprop:Generator_ColumnPropNameInTable="DnameColumn" msprop:Generator_UserColumnName="Dname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="101" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StoreId" msprop:Generator_ColumnVarNameInTable="columnStoreId" msprop:Generator_ColumnPropNameInRow="StoreId" msprop:Generator_ColumnPropNameInTable="StoreIdColumn" msprop:Generator_UserColumnName="StoreId" type="xs:long" minOccurs="0" />
+              <xs:element name="AssignBy" msprop:Generator_ColumnVarNameInTable="columnAssignBy" msprop:Generator_ColumnPropNameInRow="AssignBy" msprop:Generator_ColumnPropNameInTable="AssignByColumn" msprop:Generator_UserColumnName="AssignBy" type="xs:long" minOccurs="0" />
+              <xs:element name="Uname" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnUname" msprop:Generator_ColumnPropNameInRow="Uname" msprop:Generator_ColumnPropNameInTable="UnameColumn" msprop:Generator_UserColumnName="Uname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="101" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RequestNo" msprop:Generator_ColumnVarNameInTable="columnRequestNo" msprop:Generator_ColumnPropNameInRow="RequestNo" msprop:Generator_ColumnPropNameInTable="RequestNoColumn" msprop:Generator_UserColumnName="RequestNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PaymentID" msprop:Generator_ColumnVarNameInTable="columnPaymentID" msprop:Generator_ColumnPropNameInRow="PaymentID" msprop:Generator_ColumnPropNameInTable="PaymentIDColumn" msprop:Generator_UserColumnName="PaymentID" type="xs:long" minOccurs="0" />
+              <xs:element name="Active" msprop:Generator_ColumnVarNameInTable="columnActive" msprop:Generator_ColumnPropNameInRow="Active" msprop:Generator_ColumnPropNameInTable="ActiveColumn" msprop:Generator_UserColumnName="Active" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Orderdate" msprop:Generator_ColumnVarNameInTable="columnOrderdate" msprop:Generator_ColumnPropNameInRow="Orderdate" msprop:Generator_ColumnPropNameInTable="OrderdateColumn" msprop:Generator_UserColumnName="Orderdate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="companynm" msprop:Generator_ColumnVarNameInTable="columncompanynm" msprop:Generator_ColumnPropNameInRow="companynm" msprop:Generator_ColumnPropNameInTable="companynmColumn" msprop:Generator_UserColumnName="companynm" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ParentID" msprop:Generator_ColumnVarNameInTable="columnParentID" msprop:Generator_ColumnPropNameInRow="ParentID" msprop:Generator_ColumnPropNameInTable="ParentIDColumn" msprop:Generator_UserColumnName="ParentID" type="xs:long" minOccurs="0" />
+              <xs:element name="userIDPass" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnuserIDPass" msprop:Generator_ColumnPropNameInRow="userIDPass" msprop:Generator_ColumnPropNameInTable="userIDPassColumn" msprop:Generator_UserColumnName="userIDPass" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:View_DeliveryLogReport" />
+      <xs:field xpath="mstns:Id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e4da178a-39c9-43b3-8d19-ffaae6f525d9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.PowerOnRent/ServicePartIssue.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServicePartIssue1.wsdl" MetadataType="Wsdl" ID="75c95974-b349-49c0-b75a-c356a0a94742" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.PowerOnRent/ServicePartIssue.svc?wsdl" />
+    <MetadataFile FileName="ServicePartIssue1.disco" MetadataType="Disco" ID="bd3902df-b312-4979-9a4e-d8eb320576b6" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.PowerOnRent/ServicePartIssue.svc?disco" />
+    <MetadataFile FileName="ServicePartIssue1.xsd" MetadataType="Schema" ID="4b362a55-e314-4101-af46-8753c3e10be7" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.PowerOnRent/ServicePartIssue.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

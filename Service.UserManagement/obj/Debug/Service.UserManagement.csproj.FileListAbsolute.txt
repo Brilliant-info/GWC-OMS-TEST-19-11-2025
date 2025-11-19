@@ -1,0 +1,234 @@
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojResolveAssemblyReference.cache
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojResolveAssemblyReference.cache
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Service.UserManagement.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.UserManagement.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Interface.UserManagement.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\bin\Domain.Server.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csprojAssemblyReference.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CoreCompileInputs.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.csproj.CopyComplete
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UserManagement\obj\Debug\Service.UserManagement.pdb

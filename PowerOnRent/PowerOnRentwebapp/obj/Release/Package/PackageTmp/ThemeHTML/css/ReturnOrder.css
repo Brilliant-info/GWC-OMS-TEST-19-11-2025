@@ -1,0 +1,88 @@
+﻿body {
+}
+.dotStatsHead {
+    padding: 5px;
+    display: inline;
+    margin-left: 15px;
+}
+.gridHeadButton {
+    margin-left: 51%;
+    margin-top: -25px
+}
+.sts-btn-red
+{
+    margin-left:25px;
+}
+
+.sts-btn-Yellow {
+    margin-left: 25px;
+}
+.ReturnOrderGrid {
+    display: flex;
+    float: left;
+    padding: 3px;
+}
+
+.addNewReturnOrderGrid
+{
+    padding:2px;
+}
+.titleReturnOrder {
+    font-size: 22px;
+    font-weight: 700;
+    color: #003881;
+    float: left;
+    margin-left: 12px;
+}
+
+.inputTextReturnOrder 
+{
+    width: 200px;
+    height: 18px;
+}
+.lblReturnOrder {
+    font-size: 16px;
+}
+.btnRetunrOrder
+{
+    float:right;
+    margin-bottom:6px;
+}
+
+.dot {
+    height: 20px;
+    width: 20px;
+    border: 1px solid;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: inline-block;
+}
+.informationIcon {
+
+    z-index: 9999;
+    font-size: 13px !important  ;
+    /* top: 5px; */
+    margin-top: 3px;
+    padding: 1px;
+}
+
+.iconView {
+    font-size: 15px;
+    color: #000000;
+    padding: 7px;
+}
+/*.tableForm
+{
+   width:100%;
+}*/
+.tableForm td {
+  
+    text-align: left !important;
+}
+.lblTotalQty {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 6px;
+    font-weight: 600;
+}

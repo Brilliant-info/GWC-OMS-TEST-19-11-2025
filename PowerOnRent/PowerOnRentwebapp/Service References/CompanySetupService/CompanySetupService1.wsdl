@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="CompanySetupService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/poweronrentservices/Service.Company/CompanySetupService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="iCompanySetup_GetGroupCompany_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetGroupCompany" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetGroupCompany_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetGroupCompanyResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_InsertmCompany_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertmCompany" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_InsertmCompany_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertmCompanyResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_UpdateCompany_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCompany" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_UpdateCompany_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCompanyResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_checkDuplicateRecord_InputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecord" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_checkDuplicateRecord_OutputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_checkDuplicateRecordEdit_InputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecordEdit" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_checkDuplicateRecordEdit_OutputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecordEditResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetCompanyById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCompanyById" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetCompanyById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCompanyByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_InsertmCompanyRegistration_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertmCompanyRegistration" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_InsertmCompanyRegistration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertmCompanyRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_UpdateCompanyRegistration_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCompanyRegistration" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_UpdateCompanyRegistration_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateCompanyRegistrationResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetCompanyList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCompanyList" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetCompanyList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCompanyListResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetCompanyRegisById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCompanyRegisById" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_GetCompanyRegisById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCompanyRegisByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyServerNameDuplicate_InputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyServerNameDuplicate" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyServerNameDuplicate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyServerNameDuplicateResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyDatabaseNameDuplicate_InputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyDatabaseNameDuplicate" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyDatabaseNameDuplicate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyDatabaseNameDuplicateResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyNameDuplicate_InputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyNameDuplicate" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyNameDuplicate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyNameDuplicateResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyServer_DataBaseNameDuplicate_InputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyServer_DataBaseNameDuplicate" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_ChechkCompanyServer_DataBaseNameDuplicate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ChechkCompanyServer_DataBaseNameDuplicateResponse" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_RestoreDatabase_InputMessage">
+    <wsdl:part name="parameters" element="tns:RestoreDatabase" />
+  </wsdl:message>
+  <wsdl:message name="iCompanySetup_RestoreDatabase_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RestoreDatabaseResponse" />
+  </wsdl:message>
+  <wsdl:portType name="iCompanySetup">
+    <wsdl:operation name="GetGroupCompany">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/GetGroupCompany" message="tns:iCompanySetup_GetGroupCompany_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/GetGroupCompanyResponse" message="tns:iCompanySetup_GetGroupCompany_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertmCompany">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/InsertmCompany" message="tns:iCompanySetup_InsertmCompany_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/InsertmCompanyResponse" message="tns:iCompanySetup_InsertmCompany_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCompany">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/UpdateCompany" message="tns:iCompanySetup_UpdateCompany_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/UpdateCompanyResponse" message="tns:iCompanySetup_UpdateCompany_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecord">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/checkDuplicateRecord" message="tns:iCompanySetup_checkDuplicateRecord_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/checkDuplicateRecordResponse" message="tns:iCompanySetup_checkDuplicateRecord_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecordEdit">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/checkDuplicateRecordEdit" message="tns:iCompanySetup_checkDuplicateRecordEdit_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/checkDuplicateRecordEditResponse" message="tns:iCompanySetup_checkDuplicateRecordEdit_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCompanyById">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/GetCompanyById" message="tns:iCompanySetup_GetCompanyById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/GetCompanyByIdResponse" message="tns:iCompanySetup_GetCompanyById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertmCompanyRegistration">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/InsertmCompanyRegistration" message="tns:iCompanySetup_InsertmCompanyRegistration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/InsertmCompanyRegistrationResponse" message="tns:iCompanySetup_InsertmCompanyRegistration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCompanyRegistration">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/UpdateCompanyRegistration" message="tns:iCompanySetup_UpdateCompanyRegistration_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/UpdateCompanyRegistrationResponse" message="tns:iCompanySetup_UpdateCompanyRegistration_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCompanyList">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/GetCompanyList" message="tns:iCompanySetup_GetCompanyList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/GetCompanyListResponse" message="tns:iCompanySetup_GetCompanyList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCompanyRegisById">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/GetCompanyRegisById" message="tns:iCompanySetup_GetCompanyRegisById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/GetCompanyRegisByIdResponse" message="tns:iCompanySetup_GetCompanyRegisById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyServerNameDuplicate">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyServerNameDuplicate" message="tns:iCompanySetup_ChechkCompanyServerNameDuplicate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyServerNameDuplicateResponse" message="tns:iCompanySetup_ChechkCompanyServerNameDuplicate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyDatabaseNameDuplicate">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyDatabaseNameDuplicate" message="tns:iCompanySetup_ChechkCompanyDatabaseNameDuplicate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyDatabaseNameDuplicateResponse" message="tns:iCompanySetup_ChechkCompanyDatabaseNameDuplicate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyNameDuplicate">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyNameDuplicate" message="tns:iCompanySetup_ChechkCompanyNameDuplicate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyNameDuplicateResponse" message="tns:iCompanySetup_ChechkCompanyNameDuplicate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyServer_DataBaseNameDuplicate">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyServer_DataBaseNameDuplicate" message="tns:iCompanySetup_ChechkCompanyServer_DataBaseNameDuplicate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/ChechkCompanyServer_DataBaseNameDuplicateResponse" message="tns:iCompanySetup_ChechkCompanyServer_DataBaseNameDuplicate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RestoreDatabase">
+      <wsdl:input wsaw:Action="http://tempuri.org/iCompanySetup/RestoreDatabase" message="tns:iCompanySetup_RestoreDatabase_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iCompanySetup/RestoreDatabaseResponse" message="tns:iCompanySetup_RestoreDatabase_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_iCompanySetup" type="tns:iCompanySetup">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetGroupCompany">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/GetGroupCompany" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertmCompany">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/InsertmCompany" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCompany">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/UpdateCompany" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecord">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/checkDuplicateRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecordEdit">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/checkDuplicateRecordEdit" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCompanyById">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/GetCompanyById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertmCompanyRegistration">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/InsertmCompanyRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateCompanyRegistration">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/UpdateCompanyRegistration" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCompanyList">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/GetCompanyList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCompanyRegisById">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/GetCompanyRegisById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyServerNameDuplicate">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/ChechkCompanyServerNameDuplicate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyDatabaseNameDuplicate">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/ChechkCompanyDatabaseNameDuplicate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyNameDuplicate">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/ChechkCompanyNameDuplicate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChechkCompanyServer_DataBaseNameDuplicate">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/ChechkCompanyServer_DataBaseNameDuplicate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RestoreDatabase">
+      <soap:operation soapAction="http://tempuri.org/iCompanySetup/RestoreDatabase" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CompanySetupService">
+    <wsdl:port name="BasicHttpBinding_iCompanySetup" binding="tns:BasicHttpBinding_iCompanySetup">
+      <soap:address location="http://localhost/poweronrentservices/Service.Company/CompanySetupService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

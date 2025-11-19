@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f30654d7-45aa-4f32-9a88-7b8895d7197d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.Approval/UC_ApprovalService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UC_ApprovalService11.xsd" MetadataType="Schema" ID="7fcd78d8-a9e6-43cf-82ab-6fce933fb992" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Approval/UC_ApprovalService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UC_ApprovalService11.wsdl" MetadataType="Wsdl" ID="2f9ef902-7801-41c3-b8ea-fa4a4fd74658" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Approval/UC_ApprovalService.svc?wsdl" />
+    <MetadataFile FileName="UC_ApprovalService11.disco" MetadataType="Disco" ID="776c004b-a804-42b0-bdd0-f6e86fb42644" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Approval/UC_ApprovalService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d979860f-b77a-4339-98b7-52fdb074520f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.Login/Login.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Login2.wsdl" MetadataType="Wsdl" ID="af8c56a8-6eca-49c5-87f4-252ec6854f6f" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Login/Login.svc?wsdl" />
+    <MetadataFile FileName="Login2.xsd" MetadataType="Schema" ID="87439817-6405-486c-99a3-50334a0de5f8" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Login/Login.svc?xsd=xsd0" />
+    <MetadataFile FileName="Login2.disco" MetadataType="Disco" ID="a2b492a9-d01e-4504-a6f6-11ba86b23f4a" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Login/Login.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

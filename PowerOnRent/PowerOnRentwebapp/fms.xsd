@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="fms" targetNamespace="http://tempuri.org/fms.xsd" xmlns:mstns="http://tempuri.org/fms.xsd" xmlns="http://tempuri.org/fms.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ApplicationServices" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ApplicationServices (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ApplicationServices.ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="VW_FMSReportTableAdapter" GeneratorDataComponentClassName="VW_FMSReportTableAdapter" Name="VW_FMSReport" UserDataComponentName="VW_FMSReportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ApplicationServices (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        CustomerFirstName + ' ' + CustomerLastName AS Fullname,  convert(varchar,DateofBirth,103)DateofBirth,   convert(varchar,IDExpiryDate,103)IDExpiryDate, Email, POBox, KahramaaID, AltContactNumber, PreferredLanguage, InstillationAddress,
+ convert(varchar,OrderCreationDate,103) OrderCreationDate, VodafoneStoreName, 
+                         OrderID, Nationality,
+						 
+case when buildingname=' ' then buildingname+' '+ streetname +' '+ city +' '+country when buildingname&lt;&gt;' ' then  buildingname+', '+ streetname +', '+ city +', '+country end as address1,
+						 Idt,idtype,country,
+
+case when InstBuildingName=' ' then InstBuildingName+' '+InstStreetname+' '+ InstCity+' '+ InstCountry+' '+ InstPOBox+' '+ InstArea
+when InstBuildingName&lt;&gt;' ' then  InstBuildingName+', '+InstStreetname+', '+ InstCity+', '+ InstCountry+', '+ InstPOBox+', '+ InstArea end
+						 as instaddress,
+						  InstZone, DelvArea, DelvZone, CustomerType, IssuingCountry, VisaNumber, AppointmentId, 
+                         AppointmentDateTime, HomePOBox, HomeArea, HomeZone,
+
+						 'Appointmnet ID:'+AppointmentId +' '+'Appointment Date:'+ CONVERT(VARCHAR(20),AppointmentDateTime, 106) as Apointdetails
+
+
+
+
+FROM            dbo.tECommHead</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Fullname" DataSetColumn="Fullname" />
+              <Mapping SourceColumn="DateofBirth" DataSetColumn="DateofBirth" />
+              <Mapping SourceColumn="IDExpiryDate" DataSetColumn="IDExpiryDate" />
+              <Mapping SourceColumn="Email" DataSetColumn="Email" />
+              <Mapping SourceColumn="POBox" DataSetColumn="POBox" />
+              <Mapping SourceColumn="KahramaaID" DataSetColumn="KahramaaID" />
+              <Mapping SourceColumn="AltContactNumber" DataSetColumn="AltContactNumber" />
+              <Mapping SourceColumn="PreferredLanguage" DataSetColumn="PreferredLanguage" />
+              <Mapping SourceColumn="InstillationAddress" DataSetColumn="InstillationAddress" />
+              <Mapping SourceColumn="OrderCreationDate" DataSetColumn="OrderCreationDate" />
+              <Mapping SourceColumn="VodafoneStoreName" DataSetColumn="VodafoneStoreName" />
+              <Mapping SourceColumn="OrderID" DataSetColumn="OrderID" />
+              <Mapping SourceColumn="Nationality" DataSetColumn="Nationality" />
+              <Mapping SourceColumn="address1" DataSetColumn="address1" />
+              <Mapping SourceColumn="Idt" DataSetColumn="Idt" />
+              <Mapping SourceColumn="idtype" DataSetColumn="idtype" />
+              <Mapping SourceColumn="country" DataSetColumn="country" />
+              <Mapping SourceColumn="InstZone" DataSetColumn="InstZone" />
+              <Mapping SourceColumn="DelvArea" DataSetColumn="DelvArea" />
+              <Mapping SourceColumn="DelvZone" DataSetColumn="DelvZone" />
+              <Mapping SourceColumn="CustomerType" DataSetColumn="CustomerType" />
+              <Mapping SourceColumn="IssuingCountry" DataSetColumn="IssuingCountry" />
+              <Mapping SourceColumn="VisaNumber" DataSetColumn="VisaNumber" />
+              <Mapping SourceColumn="AppointmentId" DataSetColumn="AppointmentId" />
+              <Mapping SourceColumn="AppointmentDateTime" DataSetColumn="AppointmentDateTime" />
+              <Mapping SourceColumn="HomePOBox" DataSetColumn="HomePOBox" />
+              <Mapping SourceColumn="HomeArea" DataSetColumn="HomeArea" />
+              <Mapping SourceColumn="HomeZone" DataSetColumn="HomeZone" />
+              <Mapping SourceColumn="instaddress" DataSetColumn="instaddress" />
+              <Mapping SourceColumn="Apointdetails" DataSetColumn="Apointdetails" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="fms" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="fms" msprop:Generator_UserDSName="fms">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VW_FMSReport" msprop:Generator_TableClassName="VW_FMSReportDataTable" msprop:Generator_TableVarName="tableVW_FMSReport" msprop:Generator_RowChangedName="VW_FMSReportRowChanged" msprop:Generator_TablePropName="VW_FMSReport" msprop:Generator_RowDeletingName="VW_FMSReportRowDeleting" msprop:Generator_RowChangingName="VW_FMSReportRowChanging" msprop:Generator_RowEvHandlerName="VW_FMSReportRowChangeEventHandler" msprop:Generator_RowDeletedName="VW_FMSReportRowDeleted" msprop:Generator_RowClassName="VW_FMSReportRow" msprop:Generator_UserTableName="VW_FMSReport" msprop:Generator_RowEvArgName="VW_FMSReportRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Fullname" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnFullname" msprop:Generator_ColumnPropNameInRow="Fullname" msprop:Generator_ColumnPropNameInTable="FullnameColumn" msprop:Generator_UserColumnName="Fullname" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="201" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DateofBirth" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnDateofBirth" msprop:Generator_ColumnPropNameInRow="DateofBirth" msprop:Generator_ColumnPropNameInTable="DateofBirthColumn" msprop:Generator_UserColumnName="DateofBirth" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IDExpiryDate" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnIDExpiryDate" msprop:Generator_ColumnPropNameInRow="IDExpiryDate" msprop:Generator_ColumnPropNameInTable="IDExpiryDateColumn" msprop:Generator_UserColumnName="IDExpiryDate" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnPropNameInTable="EmailColumn" msprop:Generator_UserColumnName="Email" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="POBox" msprop:Generator_ColumnVarNameInTable="columnPOBox" msprop:Generator_ColumnPropNameInRow="POBox" msprop:Generator_ColumnPropNameInTable="POBoxColumn" msprop:Generator_UserColumnName="POBox" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KahramaaID" msprop:Generator_ColumnVarNameInTable="columnKahramaaID" msprop:Generator_ColumnPropNameInRow="KahramaaID" msprop:Generator_ColumnPropNameInTable="KahramaaIDColumn" msprop:Generator_UserColumnName="KahramaaID" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AltContactNumber" msprop:Generator_ColumnVarNameInTable="columnAltContactNumber" msprop:Generator_ColumnPropNameInRow="AltContactNumber" msprop:Generator_ColumnPropNameInTable="AltContactNumberColumn" msprop:Generator_UserColumnName="AltContactNumber" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PreferredLanguage" msprop:Generator_ColumnVarNameInTable="columnPreferredLanguage" msprop:Generator_ColumnPropNameInRow="PreferredLanguage" msprop:Generator_ColumnPropNameInTable="PreferredLanguageColumn" msprop:Generator_UserColumnName="PreferredLanguage" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InstillationAddress" msprop:Generator_ColumnVarNameInTable="columnInstillationAddress" msprop:Generator_ColumnPropNameInRow="InstillationAddress" msprop:Generator_ColumnPropNameInTable="InstillationAddressColumn" msprop:Generator_UserColumnName="InstillationAddress" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderCreationDate" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnOrderCreationDate" msprop:Generator_ColumnPropNameInRow="OrderCreationDate" msprop:Generator_ColumnPropNameInTable="OrderCreationDateColumn" msprop:Generator_UserColumnName="OrderCreationDate" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VodafoneStoreName" msprop:Generator_ColumnVarNameInTable="columnVodafoneStoreName" msprop:Generator_ColumnPropNameInRow="VodafoneStoreName" msprop:Generator_ColumnPropNameInTable="VodafoneStoreNameColumn" msprop:Generator_UserColumnName="VodafoneStoreName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OrderID" msprop:Generator_ColumnVarNameInTable="columnOrderID" msprop:Generator_ColumnPropNameInRow="OrderID" msprop:Generator_ColumnPropNameInTable="OrderIDColumn" msprop:Generator_UserColumnName="OrderID" type="xs:long" minOccurs="0" />
+              <xs:element name="Nationality" msprop:Generator_ColumnVarNameInTable="columnNationality" msprop:Generator_ColumnPropNameInRow="Nationality" msprop:Generator_ColumnPropNameInTable="NationalityColumn" msprop:Generator_UserColumnName="Nationality" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="address1" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnaddress1" msprop:Generator_ColumnPropNameInRow="address1" msprop:Generator_ColumnPropNameInTable="address1Column" msprop:Generator_UserColumnName="address1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="406" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Idt" msprop:Generator_ColumnVarNameInTable="columnIdt" msprop:Generator_ColumnPropNameInRow="Idt" msprop:Generator_ColumnPropNameInTable="IdtColumn" msprop:Generator_UserColumnName="Idt" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="idtype" msprop:Generator_ColumnVarNameInTable="columnidtype" msprop:Generator_ColumnPropNameInRow="idtype" msprop:Generator_ColumnPropNameInTable="idtypeColumn" msprop:Generator_UserColumnName="idtype" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="country" msprop:Generator_ColumnVarNameInTable="columncountry" msprop:Generator_ColumnPropNameInRow="country" msprop:Generator_ColumnPropNameInTable="countryColumn" msprop:Generator_UserColumnName="country" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InstZone" msprop:Generator_ColumnVarNameInTable="columnInstZone" msprop:Generator_ColumnPropNameInRow="InstZone" msprop:Generator_ColumnPropNameInTable="InstZoneColumn" msprop:Generator_UserColumnName="InstZone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DelvArea" msprop:Generator_ColumnVarNameInTable="columnDelvArea" msprop:Generator_ColumnPropNameInRow="DelvArea" msprop:Generator_ColumnPropNameInTable="DelvAreaColumn" msprop:Generator_UserColumnName="DelvArea" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DelvZone" msprop:Generator_ColumnVarNameInTable="columnDelvZone" msprop:Generator_ColumnPropNameInRow="DelvZone" msprop:Generator_ColumnPropNameInTable="DelvZoneColumn" msprop:Generator_UserColumnName="DelvZone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomerType" msprop:Generator_ColumnVarNameInTable="columnCustomerType" msprop:Generator_ColumnPropNameInRow="CustomerType" msprop:Generator_ColumnPropNameInTable="CustomerTypeColumn" msprop:Generator_UserColumnName="CustomerType" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IssuingCountry" msprop:Generator_ColumnVarNameInTable="columnIssuingCountry" msprop:Generator_ColumnPropNameInRow="IssuingCountry" msprop:Generator_ColumnPropNameInTable="IssuingCountryColumn" msprop:Generator_UserColumnName="IssuingCountry" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="VisaNumber" msprop:Generator_ColumnVarNameInTable="columnVisaNumber" msprop:Generator_ColumnPropNameInRow="VisaNumber" msprop:Generator_ColumnPropNameInTable="VisaNumberColumn" msprop:Generator_UserColumnName="VisaNumber" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AppointmentId" msprop:Generator_ColumnVarNameInTable="columnAppointmentId" msprop:Generator_ColumnPropNameInRow="AppointmentId" msprop:Generator_ColumnPropNameInTable="AppointmentIdColumn" msprop:Generator_UserColumnName="AppointmentId" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AppointmentDateTime" msprop:Generator_ColumnVarNameInTable="columnAppointmentDateTime" msprop:Generator_ColumnPropNameInRow="AppointmentDateTime" msprop:Generator_ColumnPropNameInTable="AppointmentDateTimeColumn" msprop:Generator_UserColumnName="AppointmentDateTime" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HomePOBox" msprop:Generator_ColumnVarNameInTable="columnHomePOBox" msprop:Generator_ColumnPropNameInRow="HomePOBox" msprop:Generator_ColumnPropNameInTable="HomePOBoxColumn" msprop:Generator_UserColumnName="HomePOBox" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HomeArea" msprop:Generator_ColumnVarNameInTable="columnHomeArea" msprop:Generator_ColumnPropNameInRow="HomeArea" msprop:Generator_ColumnPropNameInTable="HomeAreaColumn" msprop:Generator_UserColumnName="HomeArea" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HomeZone" msprop:Generator_ColumnVarNameInTable="columnHomeZone" msprop:Generator_ColumnPropNameInRow="HomeZone" msprop:Generator_ColumnPropNameInTable="HomeZoneColumn" msprop:Generator_UserColumnName="HomeZone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="instaddress" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columninstaddress" msprop:Generator_ColumnPropNameInRow="instaddress" msprop:Generator_ColumnPropNameInTable="instaddressColumn" msprop:Generator_UserColumnName="instaddress" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="310" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Apointdetails" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnApointdetails" msprop:Generator_ColumnPropNameInRow="Apointdetails" msprop:Generator_ColumnPropNameInTable="ApointdetailsColumn" msprop:Generator_UserColumnName="Apointdetails" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="103" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

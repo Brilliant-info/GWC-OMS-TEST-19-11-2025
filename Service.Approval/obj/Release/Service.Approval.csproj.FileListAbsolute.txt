@@ -1,0 +1,180 @@
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll.config
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Service.Approval.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Approval.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Interface.Approval.dll.config
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\bin\Domain.Server.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csprojAssemblyReference.cache
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CoreCompileInputs.cache
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.csproj.CopyComplete
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.Approval\obj\Release\Service.Approval.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6b5cc329-9d3e-4828-ab0d-f96dce9f185c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.UCToolbar/UCToolbarService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UCToolbarService22.xsd" MetadataType="Schema" ID="7c48fac2-5b98-4e2b-bea6-12cb59e01e38" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UCToolbar/UCToolbarService.svc?xsd=xsd1" />
+    <MetadataFile FileName="UCToolbarService23.xsd" MetadataType="Schema" ID="74bb8b44-9006-4d9a-8fbf-d265f63f9dad" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UCToolbar/UCToolbarService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UCToolbarService11.wsdl" MetadataType="Wsdl" ID="0088906e-d6a7-4ba6-a0f5-b116e5153181" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UCToolbar/UCToolbarService.svc?wsdl" />
+    <MetadataFile FileName="UCToolbarService11.disco" MetadataType="Disco" ID="52b1e376-adf0-463b-a0ba-e5896361ac81" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UCToolbar/UCToolbarService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\GWCEcommServices\Service.Inventory</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Domain.Inventory.dll">
+      <publishTime>08/25/2025 21:05:53</publishTime>
+    </File>
+    <File Include="bin/Domain.Inventory.pdb">
+      <publishTime>08/25/2025 21:05:53</publishTime>
+    </File>
+    <File Include="bin/Domain.Server.dll">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Server.pdb">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Tempdata.dll">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Tempdata.pdb">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Interface.Inventory.dll">
+      <publishTime>08/25/2025 21:05:52</publishTime>
+    </File>
+    <File Include="bin/Interface.Inventory.dll.config">
+      <publishTime>11/10/2023 06:21:50</publishTime>
+    </File>
+    <File Include="bin/Interface.Inventory.pdb">
+      <publishTime>08/25/2025 21:05:52</publishTime>
+    </File>
+    <File Include="bin/Service.Inventory.dll">
+      <publishTime>08/25/2025 21:05:54</publishTime>
+    </File>
+    <File Include="bin/Service.Inventory.pdb">
+      <publishTime>08/25/2025 21:05:54</publishTime>
+    </File>
+    <File Include="InvManagmentService.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="ServiceEngineMaster.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="ServiceGRN.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="ServiceMaterialIssue.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="ServicePartRequstion.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="ServicePRSReports.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="ServiceSiteMaster.svc">
+      <publishTime>09/15/2022 06:10:31</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/25/2025 21:05:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

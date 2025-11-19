@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d80b44c5-7148-4995-ac40-0f1e4b1f209a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.Dashboard/DashboardService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DashboardService1.wsdl" MetadataType="Wsdl" ID="d73915e8-bb96-4b79-bb8e-61ef19737916" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Dashboard/DashboardService.svc?wsdl" />
+    <MetadataFile FileName="DashboardService1.xsd" MetadataType="Schema" ID="e64e3d25-cafe-4c31-aac0-db5113684fdc" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Dashboard/DashboardService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DashboardService1.disco" MetadataType="Disco" ID="01cb8481-cc29-4d55-8190-980619442a82" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Dashboard/DashboardService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

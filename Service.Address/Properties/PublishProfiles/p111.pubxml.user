@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\GWCEcommServices\Service.Address</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddressInfoService.svc">
+      <publishTime>09/15/2022 06:10:20</publishTime>
+    </File>
+    <File Include="AddressServices.svc">
+      <publishTime>09/15/2022 06:10:20</publishTime>
+    </File>
+    <File Include="bin/Domain.Address.dll">
+      <publishTime>08/25/2025 19:56:30</publishTime>
+    </File>
+    <File Include="bin/Domain.Address.pdb">
+      <publishTime>08/25/2025 19:56:30</publishTime>
+    </File>
+    <File Include="bin/Domain.Server.dll">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Server.pdb">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Tempdata.dll">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Tempdata.pdb">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Interface.Address.dll">
+      <publishTime>08/25/2025 19:56:06</publishTime>
+    </File>
+    <File Include="bin/Interface.Address.dll.config">
+      <publishTime>11/10/2023 06:20:37</publishTime>
+    </File>
+    <File Include="bin/Interface.Address.pdb">
+      <publishTime>08/25/2025 19:56:06</publishTime>
+    </File>
+    <File Include="bin/Service.Address.dll">
+      <publishTime>08/25/2025 21:03:54</publishTime>
+    </File>
+    <File Include="bin/Service.Address.pdb">
+      <publishTime>08/25/2025 21:03:54</publishTime>
+    </File>
+    <File Include="RouteService.svc">
+      <publishTime>09/15/2022 06:10:21</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/25/2025 19:56:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

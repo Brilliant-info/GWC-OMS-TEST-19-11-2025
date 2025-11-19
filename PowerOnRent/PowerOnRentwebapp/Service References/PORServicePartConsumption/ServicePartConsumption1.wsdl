@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServicePartConsumption" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/poweronrentservices/Service.PowerOnRent/ServicePartConsumption.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="iPartConsumption_GetConsumptionHeadByConsumptionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionHeadByConsumptionID" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionHeadByConsumptionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionHeadByConsumptionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_SetIntoPartConsumptionHead_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetIntoPartConsumptionHead" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_SetIntoPartConsumptionHead_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetIntoPartConsumptionHeadResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetStatusListForConsumption_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetStatusListForConsumption" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetStatusListForConsumption_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetStatusListForConsumptionResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionPartDetailByReceiptID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionPartDetailByReceiptID" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionPartDetailByReceiptID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionPartDetailByReceiptIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionPartDetailByConsumptionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionPartDetailByConsumptionID" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionPartDetailByConsumptionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionPartDetailByConsumptionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_ClearTempDataFromDB_InputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempDataFromDB" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_ClearTempDataFromDB_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempDataFromDBResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetExistingTempDataBySessionIDObjectName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetExistingTempDataBySessionIDObjectName" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetExistingTempDataBySessionIDObjectName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetExistingTempDataBySessionIDObjectNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_AddPartIntoConsumption_TempDataByPartIDs_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddPartIntoConsumption_TempDataByPartIDs" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_AddPartIntoConsumption_TempDataByPartIDs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddPartIntoConsumption_TempDataByPartIDsResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_AddPartIntoConsumption_TempDataByGrdIDs_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddPartIntoConsumption_TempDataByGrdIDs" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_AddPartIntoConsumption_TempDataByGrdIDs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddPartIntoConsumption_TempDataByGrdIDsResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_RemovePartFrom_TempData_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemovePartFrom_TempData" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_RemovePartFrom_TempData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemovePartFrom_TempDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_UpdatePartConsumedQty_TempData_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePartConsumedQty_TempData" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_UpdatePartConsumedQty_TempData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePartConsumedQty_TempDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_FinalSavePartDetail_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSavePartDetail" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_FinalSavePartDetail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSavePartDetailResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayByUserID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayByUserID" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayByUserID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayByUserIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayBySiteIDs_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayBySiteIDs" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayBySiteIDs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayBySiteIDsResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayByReceiptIDs_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayByReceiptIDs" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayByReceiptIDs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayByReceiptIDsResponse" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayByConsumptionIDs_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayByConsumptionIDs" />
+  </wsdl:message>
+  <wsdl:message name="iPartConsumption_GetConsumptionSummayByConsumptionIDs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetConsumptionSummayByConsumptionIDsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="iPartConsumption">
+    <wsdl:operation name="GetConsumptionHeadByConsumptionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionHeadByConsumptionID" message="tns:iPartConsumption_GetConsumptionHeadByConsumptionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionHeadByConsumptionIDResponse" message="tns:iPartConsumption_GetConsumptionHeadByConsumptionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetIntoPartConsumptionHead">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/SetIntoPartConsumptionHead" message="tns:iPartConsumption_SetIntoPartConsumptionHead_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/SetIntoPartConsumptionHeadResponse" message="tns:iPartConsumption_SetIntoPartConsumptionHead_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusListForConsumption">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetStatusListForConsumption" message="tns:iPartConsumption_GetStatusListForConsumption_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetStatusListForConsumptionResponse" message="tns:iPartConsumption_GetStatusListForConsumption_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionPartDetailByReceiptID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionPartDetailByReceiptID" message="tns:iPartConsumption_GetConsumptionPartDetailByReceiptID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionPartDetailByReceiptIDResponse" message="tns:iPartConsumption_GetConsumptionPartDetailByReceiptID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionPartDetailByConsumptionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionPartDetailByConsumptionID" message="tns:iPartConsumption_GetConsumptionPartDetailByConsumptionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionPartDetailByConsumptionIDResponse" message="tns:iPartConsumption_GetConsumptionPartDetailByConsumptionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempDataFromDB">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/ClearTempDataFromDB" message="tns:iPartConsumption_ClearTempDataFromDB_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/ClearTempDataFromDBResponse" message="tns:iPartConsumption_ClearTempDataFromDB_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExistingTempDataBySessionIDObjectName">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetExistingTempDataBySessionIDObjectName" message="tns:iPartConsumption_GetExistingTempDataBySessionIDObjectName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetExistingTempDataBySessionIDObjectNameResponse" message="tns:iPartConsumption_GetExistingTempDataBySessionIDObjectName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddPartIntoConsumption_TempDataByPartIDs">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/AddPartIntoConsumption_TempDataByPartIDs" message="tns:iPartConsumption_AddPartIntoConsumption_TempDataByPartIDs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/AddPartIntoConsumption_TempDataByPartIDsResponse" message="tns:iPartConsumption_AddPartIntoConsumption_TempDataByPartIDs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddPartIntoConsumption_TempDataByGrdIDs">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/AddPartIntoConsumption_TempDataByGrdIDs" message="tns:iPartConsumption_AddPartIntoConsumption_TempDataByGrdIDs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/AddPartIntoConsumption_TempDataByGrdIDsResponse" message="tns:iPartConsumption_AddPartIntoConsumption_TempDataByGrdIDs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemovePartFrom_TempData">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/RemovePartFrom_TempData" message="tns:iPartConsumption_RemovePartFrom_TempData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/RemovePartFrom_TempDataResponse" message="tns:iPartConsumption_RemovePartFrom_TempData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePartConsumedQty_TempData">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/UpdatePartConsumedQty_TempData" message="tns:iPartConsumption_UpdatePartConsumedQty_TempData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/UpdatePartConsumedQty_TempDataResponse" message="tns:iPartConsumption_UpdatePartConsumedQty_TempData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSavePartDetail">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/FinalSavePartDetail" message="tns:iPartConsumption_FinalSavePartDetail_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/FinalSavePartDetailResponse" message="tns:iPartConsumption_FinalSavePartDetail_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayByUserID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayByUserID" message="tns:iPartConsumption_GetConsumptionSummayByUserID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayByUserIDResponse" message="tns:iPartConsumption_GetConsumptionSummayByUserID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayBySiteIDs">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayBySiteIDs" message="tns:iPartConsumption_GetConsumptionSummayBySiteIDs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayBySiteIDsResponse" message="tns:iPartConsumption_GetConsumptionSummayBySiteIDs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayByReceiptIDs">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayByReceiptIDs" message="tns:iPartConsumption_GetConsumptionSummayByReceiptIDs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayByReceiptIDsResponse" message="tns:iPartConsumption_GetConsumptionSummayByReceiptIDs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayByConsumptionIDs">
+      <wsdl:input wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayByConsumptionIDs" message="tns:iPartConsumption_GetConsumptionSummayByConsumptionIDs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iPartConsumption/GetConsumptionSummayByConsumptionIDsResponse" message="tns:iPartConsumption_GetConsumptionSummayByConsumptionIDs_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_iPartConsumption" type="tns:iPartConsumption">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetConsumptionHeadByConsumptionID">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionHeadByConsumptionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetIntoPartConsumptionHead">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/SetIntoPartConsumptionHead" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetStatusListForConsumption">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetStatusListForConsumption" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionPartDetailByReceiptID">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionPartDetailByReceiptID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionPartDetailByConsumptionID">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionPartDetailByConsumptionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempDataFromDB">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/ClearTempDataFromDB" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExistingTempDataBySessionIDObjectName">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetExistingTempDataBySessionIDObjectName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddPartIntoConsumption_TempDataByPartIDs">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/AddPartIntoConsumption_TempDataByPartIDs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddPartIntoConsumption_TempDataByGrdIDs">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/AddPartIntoConsumption_TempDataByGrdIDs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemovePartFrom_TempData">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/RemovePartFrom_TempData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePartConsumedQty_TempData">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/UpdatePartConsumedQty_TempData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSavePartDetail">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/FinalSavePartDetail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayByUserID">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionSummayByUserID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayBySiteIDs">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionSummayBySiteIDs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayByReceiptIDs">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionSummayByReceiptIDs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetConsumptionSummayByConsumptionIDs">
+      <soap:operation soapAction="http://tempuri.org/iPartConsumption/GetConsumptionSummayByConsumptionIDs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServicePartConsumption">
+    <wsdl:port name="BasicHttpBinding_iPartConsumption" binding="tns:BasicHttpBinding_iPartConsumption">
+      <soap:address location="http://localhost/poweronrentservices/Service.PowerOnRent/ServicePartConsumption.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

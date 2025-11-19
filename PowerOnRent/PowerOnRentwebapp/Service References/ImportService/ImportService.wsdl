@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ImportService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:59491/ImportService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:59491/ImportService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:59491/ImportService.svc?xsd=xsd2" />
+      <xsd:import schemaLocation="http://localhost:59491/ImportService.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IImportService_GetTemplateDataByObject_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTemplateDataByObject" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetTemplateDataByObject_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTemplateDataByObjectResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_InsertImportLocation_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertImportLocation" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_InsertImportLocation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertImportLocationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_DeleteFromtempTable_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteFromtempTable" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_DeleteFromtempTable_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteFromtempTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_NewValidateImportData_InputMessage">
+    <wsdl:part name="parameters" element="tns:NewValidateImportData" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_NewValidateImportData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:NewValidateImportDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_getTempTableValue_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTempTableValue" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_getTempTableValue_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTempTableValueResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_ValidateImportDataMorethan100_InputMessage">
+    <wsdl:part name="parameters" element="tns:ValidateImportDataMorethan100" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_ValidateImportDataMorethan100_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ValidateImportDataMorethan100Response" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetTemptablerecordCount_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTemptablerecordCount" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetTemptablerecordCount_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTemptablerecordCountResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_AddRecordToschedular_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddRecordToschedular" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_AddRecordToschedular_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddRecordToschedularResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetSchedulebyObject_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSchedulebyObject" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetSchedulebyObject_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSchedulebyObjectResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetScheduleCount_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetScheduleCount" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetScheduleCount_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetScheduleCountResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetUserCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetUserCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetDistinctPLCodes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistinctPLCodes" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetDistinctPLCodes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistinctPLCodesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_NewInsertVTImportdata_InputMessage">
+    <wsdl:part name="parameters" element="tns:NewInsertVTImportdata" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_NewInsertVTImportdata_OutputMessage">
+    <wsdl:part name="parameters" element="tns:NewInsertVTImportdataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetDistictSKUSchemaforSerial_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistictSKUSchemaforSerial" />
+  </wsdl:message>
+  <wsdl:message name="IImportService_GetDistictSKUSchemaforSerial_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDistictSKUSchemaforSerialResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IImportService">
+    <wsdl:operation name="GetTemplateDataByObject">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetTemplateDataByObject" message="tns:IImportService_GetTemplateDataByObject_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetTemplateDataByObjectResponse" message="tns:IImportService_GetTemplateDataByObject_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertImportLocation">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/InsertImportLocation" message="tns:IImportService_InsertImportLocation_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/InsertImportLocationResponse" message="tns:IImportService_InsertImportLocation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFromtempTable">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/DeleteFromtempTable" message="tns:IImportService_DeleteFromtempTable_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/DeleteFromtempTableResponse" message="tns:IImportService_DeleteFromtempTable_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="NewValidateImportData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/NewValidateImportData" message="tns:IImportService_NewValidateImportData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/NewValidateImportDataResponse" message="tns:IImportService_NewValidateImportData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTempTableValue">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/getTempTableValue" message="tns:IImportService_getTempTableValue_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/getTempTableValueResponse" message="tns:IImportService_getTempTableValue_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateImportDataMorethan100">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/ValidateImportDataMorethan100" message="tns:IImportService_ValidateImportDataMorethan100_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/ValidateImportDataMorethan100Response" message="tns:IImportService_ValidateImportDataMorethan100_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTemptablerecordCount">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetTemptablerecordCount" message="tns:IImportService_GetTemptablerecordCount_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetTemptablerecordCountResponse" message="tns:IImportService_GetTemptablerecordCount_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddRecordToschedular">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/AddRecordToschedular" message="tns:IImportService_AddRecordToschedular_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/AddRecordToschedularResponse" message="tns:IImportService_AddRecordToschedular_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSchedulebyObject">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetSchedulebyObject" message="tns:IImportService_GetSchedulebyObject_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetSchedulebyObjectResponse" message="tns:IImportService_GetSchedulebyObject_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetScheduleCount">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetScheduleCount" message="tns:IImportService_GetScheduleCount_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetScheduleCountResponse" message="tns:IImportService_GetScheduleCount_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUserCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetUserCustomer" message="tns:IImportService_GetUserCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetUserCustomerResponse" message="tns:IImportService_GetUserCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDistinctPLCodes">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetDistinctPLCodes" message="tns:IImportService_GetDistinctPLCodes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetDistinctPLCodesResponse" message="tns:IImportService_GetDistinctPLCodes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="NewInsertVTImportdata">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/NewInsertVTImportdata" message="tns:IImportService_NewInsertVTImportdata_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/NewInsertVTImportdataResponse" message="tns:IImportService_NewInsertVTImportdata_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDistictSKUSchemaforSerial">
+      <wsdl:input wsaw:Action="http://tempuri.org/IImportService/GetDistictSKUSchemaforSerial" message="tns:IImportService_GetDistictSKUSchemaforSerial_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IImportService/GetDistictSKUSchemaforSerialResponse" message="tns:IImportService_GetDistictSKUSchemaforSerial_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IImportService" type="tns:IImportService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetTemplateDataByObject">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetTemplateDataByObject" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertImportLocation">
+      <soap:operation soapAction="http://tempuri.org/IImportService/InsertImportLocation" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteFromtempTable">
+      <soap:operation soapAction="http://tempuri.org/IImportService/DeleteFromtempTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NewValidateImportData">
+      <soap:operation soapAction="http://tempuri.org/IImportService/NewValidateImportData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTempTableValue">
+      <soap:operation soapAction="http://tempuri.org/IImportService/getTempTableValue" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateImportDataMorethan100">
+      <soap:operation soapAction="http://tempuri.org/IImportService/ValidateImportDataMorethan100" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTemptablerecordCount">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetTemptablerecordCount" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddRecordToschedular">
+      <soap:operation soapAction="http://tempuri.org/IImportService/AddRecordToschedular" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSchedulebyObject">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetSchedulebyObject" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetScheduleCount">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetScheduleCount" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUserCustomer">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetUserCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDistinctPLCodes">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetDistinctPLCodes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="NewInsertVTImportdata">
+      <soap:operation soapAction="http://tempuri.org/IImportService/NewInsertVTImportdata" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDistictSKUSchemaforSerial">
+      <soap:operation soapAction="http://tempuri.org/IImportService/GetDistictSKUSchemaforSerial" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ImportService">
+    <wsdl:port name="BasicHttpBinding_IImportService" binding="tns:BasicHttpBinding_IImportService">
+      <soap:address location="http://localhost:59491/ImportService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

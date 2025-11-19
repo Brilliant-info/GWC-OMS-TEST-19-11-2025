@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ce9ce8f1-3cef-4bba-bdd9-33f20f97a542" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.Product/UOMService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UOMService11.xsd" MetadataType="Schema" ID="fa123a7f-21ac-4486-9e96-687281476438" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Product/UOMService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UOMService11.wsdl" MetadataType="Wsdl" ID="5036402c-64fa-4213-8702-19eecf6775bb" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Product/UOMService.svc?wsdl" />
+    <MetadataFile FileName="UOMService11.disco" MetadataType="Disco" ID="a8b003b9-638e-4911-900c-441a37789246" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Product/UOMService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

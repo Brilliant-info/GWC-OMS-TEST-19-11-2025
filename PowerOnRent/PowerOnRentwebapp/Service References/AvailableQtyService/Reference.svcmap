@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="802857d5-bd32-4144-879d-8ee03b872099" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.228.134.143/RTSTest/DCheckStockAvailable.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DCheckStockAvailable.xsd" MetadataType="Schema" ID="a7212d0f-abde-49a4-81f5-4c53e1bc6d7b" SourceId="1" SourceUrl="http://10.228.134.143/RTSTest/DCheckStockAvailable.svc?xsd=xsd0" />
+    <MetadataFile FileName="DCheckStockAvailable1.xsd" MetadataType="Schema" ID="747edf8e-a58e-475e-b7b2-85f4c3fcb19a" SourceId="1" SourceUrl="http://10.228.134.143/RTSTest/DCheckStockAvailable.svc?xsd=xsd1" />
+    <MetadataFile FileName="DCheckStockAvailable.wsdl" MetadataType="Wsdl" ID="a705d3c5-7970-4b0e-90f6-bcedba1c8e9f" SourceId="1" SourceUrl="http://10.228.134.143/RTSTest/DCheckStockAvailable.svc?wsdl" />
+    <MetadataFile FileName="DCheckStockAvailable.disco" MetadataType="Disco" ID="fd44ac55-787e-4be6-a459-86f9ad7ec49c" SourceId="1" SourceUrl="http://10.228.134.143/RTSTest/DCheckStockAvailable.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

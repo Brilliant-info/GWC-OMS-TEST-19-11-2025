@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ProductService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/poweronrentservices/Service.Product/ProductService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="iProductMaster_GetProductofEngine_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductofEngine" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductofEngine_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductofEngineResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetInventoryDataByProductIDs_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetInventoryDataByProductIDs" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetInventoryDataByProductIDs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetInventoryDataByProductIDsResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempDataFromDB_InputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempDataFromDB" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempDataFromDB_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempDataFromDBResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetExistingTempDataBySessionIDObjectName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetExistingTempDataBySessionIDObjectName" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetExistingTempDataBySessionIDObjectName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetExistingTempDataBySessionIDObjectNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_UpdateProductInvetory_TempData_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateProductInvetory_TempData" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_UpdateProductInvetory_TempData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateProductInvetory_TempDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductInventory_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductInventory" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductInventory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductInventoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SaveToolSiteHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveToolSiteHistory" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SaveToolSiteHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveToolSiteHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetToolSiteHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetToolSiteHistory" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetToolSiteHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetToolSiteHistoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetSitewiseTool_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSitewiseTool" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetSitewiseTool_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSitewiseToolResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_RemoveAssetFromCurrentAsset_TempData_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveAssetFromCurrentAsset_TempData" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_RemoveAssetFromCurrentAsset_TempData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveAssetFromCurrentAsset_TempDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetExistingTempDataBySessionIDObjectNamePrd_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetExistingTempDataBySessionIDObjectNamePrd" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetExistingTempDataBySessionIDObjectNamePrd_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetExistingTempDataBySessionIDObjectNamePrdResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SavetToolTransferHead_InputMessage">
+    <wsdl:part name="parameters" element="tns:SavetToolTransferHead" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SavetToolTransferHead_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SavetToolTransferHeadResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveToolTransferDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveToolTransferDetails" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveToolTransferDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveToolTransferDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetTransferList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTransferList" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetTransferList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTransferListResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetToolTransferHead_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetToolTransferHead" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetToolTransferHead_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetToolTransferHeadResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductTypeList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTypeList" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductTypeList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTypeListResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductUOMList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductUOMList" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductUOMList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductUOMListResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetmProductToUpdate_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetmProductToUpdate" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetmProductToUpdate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetmProductToUpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductDetailByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductDetailByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductDetailByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductDetailByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductDetailByProductIDForUpdate_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductDetailByProductIDForUpdate" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductDetailByProductIDForUpdate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductDetailByProductIDForUpdateResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductDetailByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductDetailByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductDetailByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductDetailByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductList" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductListResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetAssetList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssetList" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetAssetList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssetListResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_UpdateTempTaxSetup_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTempTaxSetup" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_UpdateTempTaxSetup_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateTempTaxSetupResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductTaxDetailByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTaxDetailByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductTaxDetailByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductTaxDetailByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetTempSaveProductTaxDetailBySessionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTempSaveProductTaxDetailBySessionID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetTempSaveProductTaxDetailBySessionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTempSaveProductTaxDetailBySessionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductTaxDetailByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductTaxDetailByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductTaxDetailByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductTaxDetailByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempSaveProductTaxDetailBySessionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempSaveProductTaxDetailBySessionID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempSaveProductTaxDetailBySessionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempSaveProductTaxDetailBySessionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_AddProductSpecificationToTempData_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddProductSpecificationToTempData" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_AddProductSpecificationToTempData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddProductSpecificationToTempDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductSpecificationDetailByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductSpecificationDetailByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductSpecificationDetailByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductSpecificationDetailByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempSaveProductSpecificationDetailBySessionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempSaveProductSpecificationDetailBySessionID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempSaveProductSpecificationDetailBySessionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempSaveProductSpecificationDetailBySessionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductSpecificationDetailByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductSpecificationDetailByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductSpecificationDetailByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductSpecificationDetailByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SetValuesToTempData_onChange_InputMessage">
+    <wsdl:part name="parameters" element="tns:SetValuesToTempData_onChange" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SetValuesToTempData_onChange_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SetValuesToTempData_onChangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetSpecificationDetailFromTempTableBySequence_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSpecificationDetailFromTempTableBySequence" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetSpecificationDetailFromTempTableBySequence_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSpecificationDetailFromTempTableBySequenceResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_AddTempProductImages_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddTempProductImages" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_AddTempProductImages_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddTempProductImagesResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductImagesByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductImagesByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductImagesByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductImagesByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetTempSaveProductImagesBySessionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTempSaveProductImagesBySessionID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetTempSaveProductImagesBySessionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTempSaveProductImagesBySessionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductImagesByProductID_InputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductImagesByProductID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_FinalSaveProductImagesByProductID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FinalSaveProductImagesByProductIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempSaveProductImagesBySessionID_InputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempSaveProductImagesBySessionID" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_ClearTempSaveProductImagesBySessionID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ClearTempSaveProductImagesBySessionIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_checkDuplicateRecord_InputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecord" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_checkDuplicateRecord_OutputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecordResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_checkDuplicateRecordEdit_InputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecordEdit" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_checkDuplicateRecordEdit_OutputMessage">
+    <wsdl:part name="parameters" element="tns:checkDuplicateRecordEditResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SaveNewRates_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveNewRates" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_SaveNewRates_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveNewRatesResponse" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductRateHistory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductRateHistory" />
+  </wsdl:message>
+  <wsdl:message name="iProductMaster_GetProductRateHistory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetProductRateHistoryResponse" />
+  </wsdl:message>
+  <wsdl:portType name="iProductMaster">
+    <wsdl:operation name="GetProductofEngine">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductofEngine" message="tns:iProductMaster_GetProductofEngine_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductofEngineResponse" message="tns:iProductMaster_GetProductofEngine_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryDataByProductIDs">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetInventoryDataByProductIDs" message="tns:iProductMaster_GetInventoryDataByProductIDs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetInventoryDataByProductIDsResponse" message="tns:iProductMaster_GetInventoryDataByProductIDs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempDataFromDB">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/ClearTempDataFromDB" message="tns:iProductMaster_ClearTempDataFromDB_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/ClearTempDataFromDBResponse" message="tns:iProductMaster_ClearTempDataFromDB_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExistingTempDataBySessionIDObjectName">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetExistingTempDataBySessionIDObjectName" message="tns:iProductMaster_GetExistingTempDataBySessionIDObjectName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetExistingTempDataBySessionIDObjectNameResponse" message="tns:iProductMaster_GetExistingTempDataBySessionIDObjectName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateProductInvetory_TempData">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/UpdateProductInvetory_TempData" message="tns:iProductMaster_UpdateProductInvetory_TempData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/UpdateProductInvetory_TempDataResponse" message="tns:iProductMaster_UpdateProductInvetory_TempData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductInventory">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductInventory" message="tns:iProductMaster_FinalSaveProductInventory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductInventoryResponse" message="tns:iProductMaster_FinalSaveProductInventory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveToolSiteHistory">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/SaveToolSiteHistory" message="tns:iProductMaster_SaveToolSiteHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/SaveToolSiteHistoryResponse" message="tns:iProductMaster_SaveToolSiteHistory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetToolSiteHistory">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetToolSiteHistory" message="tns:iProductMaster_GetToolSiteHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetToolSiteHistoryResponse" message="tns:iProductMaster_GetToolSiteHistory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSitewiseTool">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetSitewiseTool" message="tns:iProductMaster_GetSitewiseTool_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetSitewiseToolResponse" message="tns:iProductMaster_GetSitewiseTool_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveAssetFromCurrentAsset_TempData">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/RemoveAssetFromCurrentAsset_TempData" message="tns:iProductMaster_RemoveAssetFromCurrentAsset_TempData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/RemoveAssetFromCurrentAsset_TempDataResponse" message="tns:iProductMaster_RemoveAssetFromCurrentAsset_TempData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetExistingTempDataBySessionIDObjectNamePrd">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetExistingTempDataBySessionIDObjectNamePrd" message="tns:iProductMaster_GetExistingTempDataBySessionIDObjectNamePrd_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetExistingTempDataBySessionIDObjectNamePrdResponse" message="tns:iProductMaster_GetExistingTempDataBySessionIDObjectNamePrd_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SavetToolTransferHead">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/SavetToolTransferHead" message="tns:iProductMaster_SavetToolTransferHead_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/SavetToolTransferHeadResponse" message="tns:iProductMaster_SavetToolTransferHead_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveToolTransferDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveToolTransferDetails" message="tns:iProductMaster_FinalSaveToolTransferDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveToolTransferDetailsResponse" message="tns:iProductMaster_FinalSaveToolTransferDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTransferList">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetTransferList" message="tns:iProductMaster_GetTransferList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetTransferListResponse" message="tns:iProductMaster_GetTransferList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetToolTransferHead">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetToolTransferHead" message="tns:iProductMaster_GetToolTransferHead_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetToolTransferHeadResponse" message="tns:iProductMaster_GetToolTransferHead_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTypeList">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductTypeList" message="tns:iProductMaster_GetProductTypeList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductTypeListResponse" message="tns:iProductMaster_GetProductTypeList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductUOMList">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductUOMList" message="tns:iProductMaster_GetProductUOMList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductUOMListResponse" message="tns:iProductMaster_GetProductUOMList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetmProductToUpdate">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetmProductToUpdate" message="tns:iProductMaster_GetmProductToUpdate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetmProductToUpdateResponse" message="tns:iProductMaster_GetmProductToUpdate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductDetailByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductDetailByProductID" message="tns:iProductMaster_GetProductDetailByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductDetailByProductIDResponse" message="tns:iProductMaster_GetProductDetailByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductDetailByProductIDForUpdate">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductDetailByProductIDForUpdate" message="tns:iProductMaster_GetProductDetailByProductIDForUpdate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductDetailByProductIDForUpdateResponse" message="tns:iProductMaster_GetProductDetailByProductIDForUpdate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductDetailByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductDetailByProductID" message="tns:iProductMaster_FinalSaveProductDetailByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductDetailByProductIDResponse" message="tns:iProductMaster_FinalSaveProductDetailByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductList">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductList" message="tns:iProductMaster_GetProductList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductListResponse" message="tns:iProductMaster_GetProductList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAssetList">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetAssetList" message="tns:iProductMaster_GetAssetList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetAssetListResponse" message="tns:iProductMaster_GetAssetList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTempTaxSetup">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/UpdateTempTaxSetup" message="tns:iProductMaster_UpdateTempTaxSetup_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/UpdateTempTaxSetupResponse" message="tns:iProductMaster_UpdateTempTaxSetup_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTaxDetailByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductTaxDetailByProductID" message="tns:iProductMaster_GetProductTaxDetailByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductTaxDetailByProductIDResponse" message="tns:iProductMaster_GetProductTaxDetailByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTempSaveProductTaxDetailBySessionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetTempSaveProductTaxDetailBySessionID" message="tns:iProductMaster_GetTempSaveProductTaxDetailBySessionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetTempSaveProductTaxDetailBySessionIDResponse" message="tns:iProductMaster_GetTempSaveProductTaxDetailBySessionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductTaxDetailByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductTaxDetailByProductID" message="tns:iProductMaster_FinalSaveProductTaxDetailByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductTaxDetailByProductIDResponse" message="tns:iProductMaster_FinalSaveProductTaxDetailByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempSaveProductTaxDetailBySessionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/ClearTempSaveProductTaxDetailBySessionID" message="tns:iProductMaster_ClearTempSaveProductTaxDetailBySessionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/ClearTempSaveProductTaxDetailBySessionIDResponse" message="tns:iProductMaster_ClearTempSaveProductTaxDetailBySessionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddProductSpecificationToTempData">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/AddProductSpecificationToTempData" message="tns:iProductMaster_AddProductSpecificationToTempData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/AddProductSpecificationToTempDataResponse" message="tns:iProductMaster_AddProductSpecificationToTempData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductSpecificationDetailByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductSpecificationDetailByProductID" message="tns:iProductMaster_GetProductSpecificationDetailByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductSpecificationDetailByProductIDResponse" message="tns:iProductMaster_GetProductSpecificationDetailByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempSaveProductSpecificationDetailBySessionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/ClearTempSaveProductSpecificationDetailBySessionID" message="tns:iProductMaster_ClearTempSaveProductSpecificationDetailBySessionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/ClearTempSaveProductSpecificationDetailBySessionIDResponse" message="tns:iProductMaster_ClearTempSaveProductSpecificationDetailBySessionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductSpecificationDetailByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductSpecificationDetailByProductID" message="tns:iProductMaster_FinalSaveProductSpecificationDetailByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductSpecificationDetailByProductIDResponse" message="tns:iProductMaster_FinalSaveProductSpecificationDetailByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SetValuesToTempData_onChange">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/SetValuesToTempData_onChange" message="tns:iProductMaster_SetValuesToTempData_onChange_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/SetValuesToTempData_onChangeResponse" message="tns:iProductMaster_SetValuesToTempData_onChange_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSpecificationDetailFromTempTableBySequence">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetSpecificationDetailFromTempTableBySequence" message="tns:iProductMaster_GetSpecificationDetailFromTempTableBySequence_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetSpecificationDetailFromTempTableBySequenceResponse" message="tns:iProductMaster_GetSpecificationDetailFromTempTableBySequence_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddTempProductImages">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/AddTempProductImages" message="tns:iProductMaster_AddTempProductImages_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/AddTempProductImagesResponse" message="tns:iProductMaster_AddTempProductImages_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductImagesByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductImagesByProductID" message="tns:iProductMaster_GetProductImagesByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductImagesByProductIDResponse" message="tns:iProductMaster_GetProductImagesByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTempSaveProductImagesBySessionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetTempSaveProductImagesBySessionID" message="tns:iProductMaster_GetTempSaveProductImagesBySessionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetTempSaveProductImagesBySessionIDResponse" message="tns:iProductMaster_GetTempSaveProductImagesBySessionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductImagesByProductID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductImagesByProductID" message="tns:iProductMaster_FinalSaveProductImagesByProductID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/FinalSaveProductImagesByProductIDResponse" message="tns:iProductMaster_FinalSaveProductImagesByProductID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempSaveProductImagesBySessionID">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/ClearTempSaveProductImagesBySessionID" message="tns:iProductMaster_ClearTempSaveProductImagesBySessionID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/ClearTempSaveProductImagesBySessionIDResponse" message="tns:iProductMaster_ClearTempSaveProductImagesBySessionID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecord">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/checkDuplicateRecord" message="tns:iProductMaster_checkDuplicateRecord_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/checkDuplicateRecordResponse" message="tns:iProductMaster_checkDuplicateRecord_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecordEdit">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/checkDuplicateRecordEdit" message="tns:iProductMaster_checkDuplicateRecordEdit_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/checkDuplicateRecordEditResponse" message="tns:iProductMaster_checkDuplicateRecordEdit_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveNewRates">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/SaveNewRates" message="tns:iProductMaster_SaveNewRates_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/SaveNewRatesResponse" message="tns:iProductMaster_SaveNewRates_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetProductRateHistory">
+      <wsdl:input wsaw:Action="http://tempuri.org/iProductMaster/GetProductRateHistory" message="tns:iProductMaster_GetProductRateHistory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/iProductMaster/GetProductRateHistoryResponse" message="tns:iProductMaster_GetProductRateHistory_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_iProductMaster" type="tns:iProductMaster">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetProductofEngine">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductofEngine" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInventoryDataByProductIDs">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetInventoryDataByProductIDs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempDataFromDB">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/ClearTempDataFromDB" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExistingTempDataBySessionIDObjectName">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetExistingTempDataBySessionIDObjectName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateProductInvetory_TempData">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/UpdateProductInvetory_TempData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductInventory">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/FinalSaveProductInventory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveToolSiteHistory">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/SaveToolSiteHistory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetToolSiteHistory">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetToolSiteHistory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSitewiseTool">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetSitewiseTool" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveAssetFromCurrentAsset_TempData">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/RemoveAssetFromCurrentAsset_TempData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetExistingTempDataBySessionIDObjectNamePrd">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetExistingTempDataBySessionIDObjectNamePrd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SavetToolTransferHead">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/SavetToolTransferHead" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveToolTransferDetails">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/FinalSaveToolTransferDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTransferList">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetTransferList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetToolTransferHead">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetToolTransferHead" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTypeList">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductTypeList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductUOMList">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductUOMList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetmProductToUpdate">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetmProductToUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductDetailByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductDetailByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductDetailByProductIDForUpdate">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductDetailByProductIDForUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductDetailByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/FinalSaveProductDetailByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductList">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAssetList">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetAssetList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateTempTaxSetup">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/UpdateTempTaxSetup" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductTaxDetailByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductTaxDetailByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTempSaveProductTaxDetailBySessionID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetTempSaveProductTaxDetailBySessionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductTaxDetailByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/FinalSaveProductTaxDetailByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempSaveProductTaxDetailBySessionID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/ClearTempSaveProductTaxDetailBySessionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddProductSpecificationToTempData">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/AddProductSpecificationToTempData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductSpecificationDetailByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductSpecificationDetailByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempSaveProductSpecificationDetailBySessionID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/ClearTempSaveProductSpecificationDetailBySessionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductSpecificationDetailByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/FinalSaveProductSpecificationDetailByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SetValuesToTempData_onChange">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/SetValuesToTempData_onChange" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSpecificationDetailFromTempTableBySequence">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetSpecificationDetailFromTempTableBySequence" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddTempProductImages">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/AddTempProductImages" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductImagesByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductImagesByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTempSaveProductImagesBySessionID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetTempSaveProductImagesBySessionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalSaveProductImagesByProductID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/FinalSaveProductImagesByProductID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ClearTempSaveProductImagesBySessionID">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/ClearTempSaveProductImagesBySessionID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecord">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/checkDuplicateRecord" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="checkDuplicateRecordEdit">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/checkDuplicateRecordEdit" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveNewRates">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/SaveNewRates" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetProductRateHistory">
+      <soap:operation soapAction="http://tempuri.org/iProductMaster/GetProductRateHistory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ProductService">
+    <wsdl:port name="BasicHttpBinding_iProductMaster" binding="tns:BasicHttpBinding_iProductMaster">
+      <soap:address location="http://localhost/poweronrentservices/Service.Product/ProductService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

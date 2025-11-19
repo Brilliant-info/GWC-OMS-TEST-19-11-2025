@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="04b56115-2d49-4190-8892-7f8ef74bb304" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.PowerOnRent/ServiceEngineMaster.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceEngineMaster11.disco" MetadataType="Disco" ID="39d2ca7a-fca9-4da2-99bf-e70b7986af07" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.PowerOnRent/ServiceEngineMaster.svc?disco" />
+    <MetadataFile FileName="ServiceEngineMaster11.xsd" MetadataType="Schema" ID="aa2a6416-c7a1-4930-b26b-57c85f191435" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.PowerOnRent/ServiceEngineMaster.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceEngineMaster11.wsdl" MetadataType="Wsdl" ID="a516f6af-f3e7-4132-8c98-f71752caea17" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.PowerOnRent/ServiceEngineMaster.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

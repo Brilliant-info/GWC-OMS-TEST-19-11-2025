@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1f46997d-d30d-45e9-a2bb-2e9caa526c0b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.Product/UCProductSearchService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UCProductSearchService.disco" MetadataType="Disco" ID="ef088ce1-2504-4000-b103-2c8cd47a38b7" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Product/UCProductSearchService.svc?disco" />
+    <MetadataFile FileName="UCProductSearchService.xsd" MetadataType="Schema" ID="123eee79-6073-418c-88b8-62ea3ab4620d" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Product/UCProductSearchService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UCProductSearchService.wsdl" MetadataType="Wsdl" ID="f02bb59e-4bda-4b25-a36e-840fc23188b8" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.Product/UCProductSearchService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

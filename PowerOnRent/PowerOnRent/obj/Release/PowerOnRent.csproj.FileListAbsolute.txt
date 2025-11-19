@@ -1,0 +1,7 @@
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\bin\PowerOnRent.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\bin\PowerOnRent.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\bin\PowerOnRent.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\obj\Release\PowerOnRent.csprojAssemblyReference.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\obj\Release\PowerOnRent.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\obj\Release\PowerOnRent.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\PowerOnRent\PowerOnRent\obj\Release\PowerOnRent.pdb

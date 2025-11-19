@@ -1,0 +1,266 @@
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojResolveAssemblyReference.cache
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\TFS\GWCVer3Test\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojResolveAssemblyReference.cache
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\BWMSDEVP\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\GWC\ProdGWCVer2\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+F:\TFS GWC\GWCTest\GWCVer2Test\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\GWC SVN\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\GWC\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+C:\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+C:\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+C:\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+C:\GWCTest\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Service.Document.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Service.Document.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Document.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Server.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Document.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Interface.Document.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Interface.Document.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Server.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\bin\Domain.Tempdata.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csprojAssemblyReference.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CoreCompileInputs.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.csproj.CopyComplete
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.Document\obj\Debug\Service.Document.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6ab68f80-84ae-4e9f-ab46-761ac0be66c4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.UserManagement/UserCreationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UserCreationService1.wsdl" MetadataType="Wsdl" ID="b976636b-035b-4549-a77a-5747160029ca" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UserManagement/UserCreationService.svc?wsdl" />
+    <MetadataFile FileName="UserCreationService1.disco" MetadataType="Disco" ID="ae58f61a-3754-4b8c-be34-08b670eb331f" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UserManagement/UserCreationService.svc?disco" />
+    <MetadataFile FileName="UserCreationService1.xsd" MetadataType="Schema" ID="ae9a42ac-7de5-46b2-9983-549ef938e510" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UserManagement/UserCreationService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

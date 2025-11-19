@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d4ba155e-c494-449e-a277-f00d7a04785b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/GWCEcommServices/Service.UserManagement/DesignationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DesignationService11.xsd" MetadataType="Schema" ID="99089fee-090e-4f64-96be-a319179ee74e" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UserManagement/DesignationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DesignationService11.disco" MetadataType="Disco" ID="a4a06c4e-ea35-470c-a6b4-bf9e406bdd29" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UserManagement/DesignationService.svc?disco" />
+    <MetadataFile FileName="DesignationService11.wsdl" MetadataType="Wsdl" ID="8ef7a8bc-6404-4616-b751-d9b73d10efba" SourceId="1" SourceUrl="http://localhost/GWCEcommServices/Service.UserManagement/DesignationService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

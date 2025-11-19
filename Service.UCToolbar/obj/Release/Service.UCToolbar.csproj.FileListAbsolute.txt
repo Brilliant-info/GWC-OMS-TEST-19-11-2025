@@ -1,0 +1,180 @@
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+D:\GWC\GWCTestV3\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+E:\GWC\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+E:\GWC Project\GWC\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+E:\GWC Project\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+D:\GWC Projects\GWCWebTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+E:\GWC Project\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+C:\GWCTest\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+E:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+D:\GWC TEST\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+D:\ALL GWC PROJECTS (DO NOT DELETE VV IMP)\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+D:\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll.config
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Service.UCToolbar.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.UCToolbar.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Interface.UCToolbar.dll.config
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\bin\Domain.Server.pdb
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csprojAssemblyReference.cache
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CoreCompileInputs.cache
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.csproj.CopyComplete
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.dll
+D:\ALL GWC\GWC TEST 05-08-2025\GWCPartRequestSystem\Service.UCToolbar\obj\Release\Service.UCToolbar.pdb

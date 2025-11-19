@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\GWCEcommServices\Service.Approval</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApprovalLevelMasterService.svc">
+      <publishTime>09/15/2022 06:10:23</publishTime>
+    </File>
+    <File Include="bin/Domain.Approval.dll">
+      <publishTime>08/25/2025 21:04:15</publishTime>
+    </File>
+    <File Include="bin/Domain.Approval.pdb">
+      <publishTime>08/25/2025 21:04:15</publishTime>
+    </File>
+    <File Include="bin/Domain.Server.dll">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Domain.Server.pdb">
+      <publishTime>08/25/2025 19:54:49</publishTime>
+    </File>
+    <File Include="bin/Interface.Approval.dll">
+      <publishTime>08/25/2025 21:04:14</publishTime>
+    </File>
+    <File Include="bin/Interface.Approval.dll.config">
+      <publishTime>11/10/2023 06:21:01</publishTime>
+    </File>
+    <File Include="bin/Interface.Approval.pdb">
+      <publishTime>08/25/2025 21:04:14</publishTime>
+    </File>
+    <File Include="bin/Service.Approval.dll">
+      <publishTime>08/25/2025 21:04:16</publishTime>
+    </File>
+    <File Include="bin/Service.Approval.pdb">
+      <publishTime>08/25/2025 21:04:16</publishTime>
+    </File>
+    <File Include="UC_ApprovalService.svc">
+      <publishTime>09/15/2022 06:10:23</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/25/2025 21:04:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
